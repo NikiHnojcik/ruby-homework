@@ -1,0 +1,16 @@
+// app/assets/stylesheets/application.scss
+@import "*";
+@import 'bootstrap';
+
+body {
+    padding-top: 3.5rem;
+
+	   img {
+            height: 2rem;
+            width: auto;
+       }
+
+       span {
+           padding-left: 0.5rem;
+       }
+}
